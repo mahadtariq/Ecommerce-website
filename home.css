@@ -1,0 +1,32 @@
+
+.homePicture {
+    width: 100%;
+    height: 90vh; 
+    background-image: url('https://wallpaperswide.com/download/old_car-wallpaper-2560x2048.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+
+  }
+  .Menu{
+    text-align: right; 
+ margin-right: 12rem;
+ margin-top: 29rem;
+  }
+  .Menu p {
+    
+    font-size: 1.3rem; 
+    margin-bottom: 1rem; 
+    color: #ffffff;
+    
+    
+  }
+  
+
+
+  
+  
+  
+  

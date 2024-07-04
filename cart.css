@@ -1,0 +1,23 @@
+.Container_Cart {
+    background-color: rgba(255, 255, 255, 0.9); /* Light background color with opacity */
+    width: 200px; 
+    border-radius: 10px; 
+    padding: 10px; 
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    position: fixed; 
+   color: black;
+   margin-top: 1rem;
+   margin-left: 1rem;
+  }
+  
+  .Container_Cart p {
+    margin-top: 0.5rem; /* Adjust top margin */
+    margin-bottom: 0.5rem; /* Adjust bottom margin */
+  }
+
+  
+  .Container_Cart div {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Add a border between items */
+    padding-bottom: 5px; 
+  }
+  

@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(97, 95, 95);
+  color: white;
+}
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-container h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .about-section {
+    margin-bottom: 30px;
+  }
+  
+ 
+  
+
+  
